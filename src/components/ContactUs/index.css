@@ -1,0 +1,9 @@
+.contact-container{
+    height: 90vh;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1100px;
+    margin: auto;
+}
